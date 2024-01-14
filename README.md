@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @siaalnoor
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in data analysis
 
 <!---
 siaalnoor/siaalnoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
